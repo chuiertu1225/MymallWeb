@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # leyou-manage-web
 
 > A Vue.js project
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# MymallWeb
+>>>>>>> c311be961ccd9b118dae91bd3a134777bee03b34
